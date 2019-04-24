@@ -1,0 +1,10 @@
+By hit-where:
+	L1:
+		Loads          :      4104307  ( 95.9%) 	Stores         :      2045274  ( 96.4%)
+		  other          :      4104307  (100.0%) 	  other          :      2045274  (100.0%)
+	L3:
+		Loads          :            0  (  0.0%) 	Stores         :        76925  (  3.6%)
+		  other          :            0           	  other          :        76925  (100.0%)
+	dram-local:
+		Loads          :       176941  (  4.1%) 	Stores         :            0  (  0.0%)
+		  other          :       176941  (100.0%) 	  other          :            0          
