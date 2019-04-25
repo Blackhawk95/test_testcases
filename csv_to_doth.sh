@@ -19,3 +19,5 @@ sed -i 's/ /,/g' $2 # remove space and replace it with ,
 echo $endpart >> $2 # add endpart
 sed -i ':a;N;$!ba;s/\n//g' $2 # remove \n due to endpart
 sed -i "1s;^;$begpart1$var$begpart2;" $2 #combine the beggining part
+
+rm tdumpr
