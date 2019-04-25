@@ -1,0 +1,20 @@
+[SNIPER] Start
+[SNIPER] --------------------------------------------------------------------------------
+[SNIPER] Sniper using SIFT/trace-driven frontend
+[SNIPER] Running full application in DETAILED mode
+[SNIPER] --------------------------------------------------------------------------------
+[SNIPER] Enabling performance models
+[SNIPER] Setting instrumentation mode to DETAILED
+[getDataFromDram] 2197251068290 0 1
+[getDataFromDram] 2198991153075 0 2
+[getDataFromDram] 2197251068346 0 3
+[getDataFromDram] 2197245876472 0 366420
+[TRACE:0] -- DONE --
+[RECORD-TRACE] Using the Pin frontend (sift/recorder)
+[SNIPER] Disabling performance models
+[SNIPER] Leaving ROI after 99.41 seconds
+[SNIPER] Simulated 2.1M instructions, 17.6M cycles, 0.12 IPC
+[SNIPER] Simulation speed 21.3 KIPS (21.3 KIPS / target core - 46865.3ns/instr)
+[SNIPER] Setting instrumentation mode to FAST_FORWARD
+[SNIPER] End
+[SNIPER] Elapsed time: 99.75 seconds
